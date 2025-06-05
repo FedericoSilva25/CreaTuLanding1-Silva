@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Node.js
+#
+# Workspaces: https://docs.npmjs.com/cli/using-npm/workspaces
+node_modules/
+/node_modules
+
+# Runtime data
+.eslintcache
+.stylelintcache
+.vitepress/cache
+.nuxt/
+.next/
+.vercel/
+.husky/
+.npm
+.eslintcache
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+dist/
